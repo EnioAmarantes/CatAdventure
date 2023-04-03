@@ -16,6 +16,7 @@ public class PCScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        float x = Input.GetAxis("Horizontal");
+        rbd.velocity = new Vector2(x * vel, rbd.velocity.y);
     }
 }
