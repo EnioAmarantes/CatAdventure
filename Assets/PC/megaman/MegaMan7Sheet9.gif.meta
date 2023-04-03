@@ -1,0 +1,2952 @@
+fileFormatVersion: 2
+guid: 53dba14cfec5d0b48ad01eb8aa65f837
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 685
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e8bf60ac53ba14cb8f2d6215258d7b
+      internalID: -1008542985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 685
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f57919ce468654096871fba3967771
+      internalID: 498821538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 685
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e84a13aaa9a3d4d88db15b318b94ac
+      internalID: -1391600301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 685
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2dae4dd63866449925bcf495a97875
+      internalID: -896224416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 685
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd74cc6ba0a565469ed64552273d141
+      internalID: 2033012226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 641
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd560f7447e704f4cbccdf9075287048
+      internalID: -1309840506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 641
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20b2df282b254948b05c7359d92162f
+      internalID: -499293537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 641
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728b129c27346f94d90f0fab0ea72567
+      internalID: 1346040744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_8
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 641
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8097b436dd1f184c83ad899d9c07a8c
+      internalID: 1620487144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 641
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203fc96d1d899b04fa36f1e4b0d6ead9
+      internalID: 144503531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 641
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b10249766c0a164ab8f7a0eecaf4577
+      internalID: -2083378662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_11
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 641
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc2047b8ebabbf4fb0387b6efb54264
+      internalID: -337232667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_12
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 641
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8f51a8193550047929d81742166056
+      internalID: -1393651188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 597
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c116ec6b29a6ef43bf0a6ed4526c17d
+      internalID: -540194843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 597
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86657115c900c74449df450b20feaddb
+      internalID: 2024006930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 597
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c0b4d154920f741bcd1cd1ad60ec82
+      internalID: -1178435585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 597
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d6ac5fdf323a345a75d90a74ae8d73
+      internalID: 1794974171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_17
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 597
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cf8a19956b0c24499d0fcdbb18bf77
+      internalID: 1184711595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 597
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfde6d3e05d0a74fa6112aca1a3bfb0
+      internalID: 279770582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 597
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2190b7091dec6f44ba9f363337b5708
+      internalID: -1022412190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_20
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 597
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e824885159904a44afb2e9d41c7a77a
+      internalID: 595892241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 597
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d88ffb979308de42be1d58cb144e18b
+      internalID: -1986460730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_22
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 597
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd0ed9f1ad501e4281ebf1149a84f5c
+      internalID: 82225161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 557
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760b980e372efdf44ba5efb4a556bc99
+      internalID: 284293046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 557
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b574f89fed3425f48b00c9400ea2873c
+      internalID: -1354733807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 557
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6217aaf7b7ea9164a8a90063b026a318
+      internalID: 932777044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 557
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d448528870183c54d9671b27598abba1
+      internalID: 742501274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_27
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 557
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e224574977620478f96dc5b8c7111d
+      internalID: -1921192287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 557
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63eb15fbf6fce145be0e77eda8adbf9
+      internalID: -1861471522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_29
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 557
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57992a97041233409e64f2aa2c8b76b
+      internalID: 438552359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_30
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 557
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1627d033591b664db8ac7c82f407825
+      internalID: 1255132740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_31
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 557
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b2f567fcff4d34db0b6187d50e81fb
+      internalID: -656932480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_32
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 557
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6efdee73756b33489fdafb38e58adfc
+      internalID: -1783050496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_33
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 557
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780c0c886f667244d8a6df2ed4335855
+      internalID: -1933427783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_34
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 557
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ad148ed2cc1954e8b087f7fff92259
+      internalID: -1224093314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 515
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df74dc182f98434c8f31d6b93ad8560
+      internalID: -116469133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 515
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ad869f762558942b9195ab6e0fb2a0
+      internalID: 820863046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_37
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 515
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742bcbb6b3ed0b749846a366fe11916a
+      internalID: 1257074554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_38
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 515
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222ec5104468a3a4a99302ce467280ae
+      internalID: -1983877336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_39
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 515
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f033b2706734740b1d4c95b907aa00
+      internalID: -982513478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_40
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 515
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ad7cea625a56540a9c6015dddf1624
+      internalID: -1148791654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 459
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbdb7d9ca1c04e478de795a23f3b070
+      internalID: 522511091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 459
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e5e2b477b3ae642b4b0a17435052bb
+      internalID: 665029206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_43
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 459
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b5cea9a9eb9e146ab7a1b7fd3f26ff
+      internalID: 429694756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_44
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 459
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db17592e3829fa49b35d5d342241a0d
+      internalID: 1033996280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_45
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 459
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8717064035007746a519c2f30da68b4
+      internalID: 657063486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_46
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 459
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf18c18ab8d2fa4aadcf026cbf21c30
+      internalID: -1822642642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_47
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 459
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd44e6ed81137324c89559fe3dd50f34
+      internalID: -992876748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_48
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 459
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98615c9957df3bc46a88da3b33a01e89
+      internalID: -1071850915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_49
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 459
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e76ff99e5b3ebe4799394a733a81f7e
+      internalID: -1528056376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_50
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 459
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4959ac1d41d2d44182091ce301c75bd
+      internalID: 502178908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_51
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 418
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dd8486e3bff5d42a3415e5fb60c533
+      internalID: -604021766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_52
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 418
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b44d08b80a6b344845d1d1ff37d09e
+      internalID: 2103547737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_53
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 418
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae8b41b43ca23249b7200ffd15c89f3
+      internalID: 787004440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_54
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 418
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577a8f936b0256243b4db978414cfd61
+      internalID: -2090169828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_55
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 418
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca72dfb1dec1904080d35ca52a3aa71
+      internalID: -1242110566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 418
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b18664b8d919604fb3a15b54ec9ae86
+      internalID: 1033151535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_57
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 374
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1507b26275479ed48a6b927c32996cbc
+      internalID: -278606911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_58
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 374
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f55704482961b34b817dd29881abfc3
+      internalID: -1915718594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 374
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c519ef78fa93504b9665f7cff19d23e
+      internalID: -118848587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_60
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 374
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4041933817092e84b844b09ecb94391f
+      internalID: 944321214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 374
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad826c641d1a40147928dff8523a446c
+      internalID: -2126072811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_62
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 374
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a710af0366eb20746877d12e900cf1a8
+      internalID: 870107603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_63
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 374
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2717c55f9b94fd44b38c613db310883
+      internalID: 182441776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_64
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 374
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63f05847afbbdc44926fcd1c7432f38
+      internalID: 280016240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 374
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee1c48ed8accd44084e6c5f6cc25339
+      internalID: -2039263723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_66
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 374
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1a15160586fb04bb057efadb9adbaf
+      internalID: -1628037918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_67
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 374
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e232e201d7d82f4dbdee8bbd41719b5
+      internalID: 395843812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_68
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 374
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103631f90bfa70344a5f615b7b29c680
+      internalID: 1718421550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_69
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 316
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec52bbb34f72c142bb1715dab0029a7
+      internalID: 772963344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_70
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 316
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab56167108e40a34a85e3b9b1a47b3e0
+      internalID: -2065725343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_71
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 316
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d42c94f8aa2544cbfc1f31ae012c0f
+      internalID: 1111878078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_72
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 316
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86678ceff7d17f04f9551e85be1786ab
+      internalID: -268842193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_73
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 316
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc4c7c15c7762b4e8b98414ea8c935a
+      internalID: 1420891386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_74
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 316
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43743573e68477549a353986401c579a
+      internalID: -840474005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_75
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 316
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccf94730b2719d4194e5011b16fcb01
+      internalID: 957084808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_76
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 316
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a3c4bc3a4655148a925146ba4810a3
+      internalID: -821294386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_77
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 316
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2bb4d7205166c4face6c3f68b62b31
+      internalID: 2065107827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_78
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 316
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85acc9594c8cac448557406dfcba457
+      internalID: -2050213076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_79
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 273
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96decef7383a5c341a0bd85ae88c22d5
+      internalID: 1725664509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_80
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 273
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ec4af6a02abbe48a347c6e3d91117d
+      internalID: -1454650648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_81
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 273
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f78fbfdbbc4f34e817d6b049420708
+      internalID: -1984130286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_82
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 273
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dffc1f50aa035542b4566094a3fc3cf
+      internalID: -2128786797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_83
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 273
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758f69b3126226542baf3828a9ee35d4
+      internalID: 740560298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_84
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 273
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8ec389b1babf24db48e1be6020a544
+      internalID: 1769360571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_85
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 273
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e809f9c1a611ed4bb9af4bcc21c778d
+      internalID: 1833428217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_86
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 273
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444e4642952052b4c91c67df36c506be
+      internalID: 371553458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_87
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 273
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201b574ed2c7e4746a9ba5717a75cdb2
+      internalID: 517173294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_88
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 273
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8032fdc9aa39a54c894f36b3d8221da
+      internalID: -1807558961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 233
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6dc54d8faf6e64aa0aaaef624a22aa
+      internalID: -1382992239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_90
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 233
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffb18c4a79d5744e83c0e9eac5c2852
+      internalID: -1584411777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_91
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 233
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad3dc63143b63945a561a3fd4cd2fe2
+      internalID: 1884948511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_92
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 233
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614bd54ad863c9948bbffeeb78b126e4
+      internalID: 815847684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_93
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 233
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b0563d174040f409cd15fd446731b6
+      internalID: -1409206052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_94
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 233
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30c41015e928a24ab26b1816bad6a84
+      internalID: 1961986248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_95
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 233
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a3e90f3bba1a54abe7768fb4b22dc2
+      internalID: -61327179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_96
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 233
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93ff829754858c4bb30c2cb50dba352
+      internalID: 1847690935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_97
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 233
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c005bef1395934c85466621dcedccf
+      internalID: -1160450542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_98
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 233
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0f3d54cf3d92b4c9d667630844c1d6
+      internalID: 2078809731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_99
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 233
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4f6f292b8f39642b80d9ab8797116a
+      internalID: 1754976880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_100
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 233
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ec45f3c70b4dd448f2952344041c7a
+      internalID: 931134628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_101
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 179
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2992646834be942b3bf710c521a2c6
+      internalID: -2080630048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_102
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 179
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0f996a3d8b9c94aa4913a50f675918
+      internalID: -1993551761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_103
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 172
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96433aaa2a9ee5e4fa20aae91848ae08
+      internalID: -736069547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_104
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 179
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8efc0960535c8e4d8e0a3d5afdf0cff
+      internalID: -1310145791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_105
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 179
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2558702044b5e7488384a279d2e95f3
+      internalID: -1664822400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_106
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 172
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a803570345f8744b925753c11c77b0
+      internalID: 28975952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_107
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 179
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64eb175709b2e9f4dbd627dd45211b68
+      internalID: -804039893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_108
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 179
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65eba74a39b2d4142b5c15a3faea44b6
+      internalID: 344034224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_109
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 110
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb524fcb0a2cfb498cc9756af6e8daf
+      internalID: -165777714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_110
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 110
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d767f32dadc67d4884bb4425c8df38a
+      internalID: -1645243140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_111
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 110
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d012b16c0c70f94bb493ebaf4343bb4
+      internalID: 1755512889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_112
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 110
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0341457f3e0e5864aaffa9a29e1ec736
+      internalID: -1574436912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_113
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 110
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c825d6a3da678f4f93532ddd3aae05d
+      internalID: -1532240958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_114
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 110
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b30b39f27ac13a40aed51143aec62c0
+      internalID: 964911148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_115
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 110
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaeca7c58406c840b993c376fb29b24
+      internalID: -1844369042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_116
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 110
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e1c92c86302be489e76cbfd41ca21e
+      internalID: 1965348392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_117
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 110
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4a870b8b7b72646a497eb44df7abbc
+      internalID: -714116399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_118
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 58
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed314b7ffc8e084c8aa9b51f0d63973
+      internalID: 1602647471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_119
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 58
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11dbcb05e05fee4f993d9b54071b900
+      internalID: 315155772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_120
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 58
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b2785d1140d004888f5cdbb6e57a90
+      internalID: -858733687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_121
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 58
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b83cd7be022f4c479265de9619468b9
+      internalID: -1263659256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_122
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 58
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd1c95eba8de9d46ad2e5c86927a57d
+      internalID: 1723661701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_123
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 58
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b67642ceeb9ac7478ce19a9f6587f08
+      internalID: 595911108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_124
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 4
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f2fae3f9bc5074a9a976e9fdb9b3b1
+      internalID: 1507890800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_125
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 4
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a239aace23ad843bdf48f50c5b4009
+      internalID: -1792661258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_126
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 4
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e2c1e7140b6354aba83ce9a2bf78dc
+      internalID: 280486162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_127
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 4
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9143d5e6355229447a00df47ca7a64e4
+      internalID: -478396215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MegaMan7Sheet9_0: -1008542985
+      MegaMan7Sheet9_1: 498821538
+      MegaMan7Sheet9_10: -2083378662
+      MegaMan7Sheet9_100: 931134628
+      MegaMan7Sheet9_101: -2080630048
+      MegaMan7Sheet9_102: -1993551761
+      MegaMan7Sheet9_103: -736069547
+      MegaMan7Sheet9_104: -1310145791
+      MegaMan7Sheet9_105: -1664822400
+      MegaMan7Sheet9_106: 28975952
+      MegaMan7Sheet9_107: -804039893
+      MegaMan7Sheet9_108: 344034224
+      MegaMan7Sheet9_109: -165777714
+      MegaMan7Sheet9_11: -337232667
+      MegaMan7Sheet9_110: -1645243140
+      MegaMan7Sheet9_111: 1755512889
+      MegaMan7Sheet9_112: -1574436912
+      MegaMan7Sheet9_113: -1532240958
+      MegaMan7Sheet9_114: 964911148
+      MegaMan7Sheet9_115: -1844369042
+      MegaMan7Sheet9_116: 1965348392
+      MegaMan7Sheet9_117: -714116399
+      MegaMan7Sheet9_118: 1602647471
+      MegaMan7Sheet9_119: 315155772
+      MegaMan7Sheet9_12: -1393651188
+      MegaMan7Sheet9_120: -858733687
+      MegaMan7Sheet9_121: -1263659256
+      MegaMan7Sheet9_122: 1723661701
+      MegaMan7Sheet9_123: 595911108
+      MegaMan7Sheet9_124: 1507890800
+      MegaMan7Sheet9_125: -1792661258
+      MegaMan7Sheet9_126: 280486162
+      MegaMan7Sheet9_127: -478396215
+      MegaMan7Sheet9_13: -540194843
+      MegaMan7Sheet9_14: 2024006930
+      MegaMan7Sheet9_15: -1178435585
+      MegaMan7Sheet9_16: 1794974171
+      MegaMan7Sheet9_17: 1184711595
+      MegaMan7Sheet9_18: 279770582
+      MegaMan7Sheet9_19: -1022412190
+      MegaMan7Sheet9_2: -1391600301
+      MegaMan7Sheet9_20: 595892241
+      MegaMan7Sheet9_21: -1986460730
+      MegaMan7Sheet9_22: 82225161
+      MegaMan7Sheet9_23: 284293046
+      MegaMan7Sheet9_24: -1354733807
+      MegaMan7Sheet9_25: 932777044
+      MegaMan7Sheet9_26: 742501274
+      MegaMan7Sheet9_27: -1921192287
+      MegaMan7Sheet9_28: -1861471522
+      MegaMan7Sheet9_29: 438552359
+      MegaMan7Sheet9_3: -896224416
+      MegaMan7Sheet9_30: 1255132740
+      MegaMan7Sheet9_31: -656932480
+      MegaMan7Sheet9_32: -1783050496
+      MegaMan7Sheet9_33: -1933427783
+      MegaMan7Sheet9_34: -1224093314
+      MegaMan7Sheet9_35: -116469133
+      MegaMan7Sheet9_36: 820863046
+      MegaMan7Sheet9_37: 1257074554
+      MegaMan7Sheet9_38: -1983877336
+      MegaMan7Sheet9_39: -982513478
+      MegaMan7Sheet9_4: 2033012226
+      MegaMan7Sheet9_40: -1148791654
+      MegaMan7Sheet9_41: 522511091
+      MegaMan7Sheet9_42: 665029206
+      MegaMan7Sheet9_43: 429694756
+      MegaMan7Sheet9_44: 1033996280
+      MegaMan7Sheet9_45: 657063486
+      MegaMan7Sheet9_46: -1822642642
+      MegaMan7Sheet9_47: -992876748
+      MegaMan7Sheet9_48: -1071850915
+      MegaMan7Sheet9_49: -1528056376
+      MegaMan7Sheet9_5: -1309840506
+      MegaMan7Sheet9_50: 502178908
+      MegaMan7Sheet9_51: -604021766
+      MegaMan7Sheet9_52: 2103547737
+      MegaMan7Sheet9_53: 787004440
+      MegaMan7Sheet9_54: -2090169828
+      MegaMan7Sheet9_55: -1242110566
+      MegaMan7Sheet9_56: 1033151535
+      MegaMan7Sheet9_57: -278606911
+      MegaMan7Sheet9_58: -1915718594
+      MegaMan7Sheet9_59: -118848587
+      MegaMan7Sheet9_6: -499293537
+      MegaMan7Sheet9_60: 944321214
+      MegaMan7Sheet9_61: -2126072811
+      MegaMan7Sheet9_62: 870107603
+      MegaMan7Sheet9_63: 182441776
+      MegaMan7Sheet9_64: 280016240
+      MegaMan7Sheet9_65: -2039263723
+      MegaMan7Sheet9_66: -1628037918
+      MegaMan7Sheet9_67: 395843812
+      MegaMan7Sheet9_68: 1718421550
+      MegaMan7Sheet9_69: 772963344
+      MegaMan7Sheet9_7: 1346040744
+      MegaMan7Sheet9_70: -2065725343
+      MegaMan7Sheet9_71: 1111878078
+      MegaMan7Sheet9_72: -268842193
+      MegaMan7Sheet9_73: 1420891386
+      MegaMan7Sheet9_74: -840474005
+      MegaMan7Sheet9_75: 957084808
+      MegaMan7Sheet9_76: -821294386
+      MegaMan7Sheet9_77: 2065107827
+      MegaMan7Sheet9_78: -2050213076
+      MegaMan7Sheet9_79: 1725664509
+      MegaMan7Sheet9_8: 1620487144
+      MegaMan7Sheet9_80: -1454650648
+      MegaMan7Sheet9_81: -1984130286
+      MegaMan7Sheet9_82: -2128786797
+      MegaMan7Sheet9_83: 740560298
+      MegaMan7Sheet9_84: 1769360571
+      MegaMan7Sheet9_85: 1833428217
+      MegaMan7Sheet9_86: 371553458
+      MegaMan7Sheet9_87: 517173294
+      MegaMan7Sheet9_88: -1807558961
+      MegaMan7Sheet9_89: -1382992239
+      MegaMan7Sheet9_9: 144503531
+      MegaMan7Sheet9_90: -1584411777
+      MegaMan7Sheet9_91: 1884948511
+      MegaMan7Sheet9_92: 815847684
+      MegaMan7Sheet9_93: -1409206052
+      MegaMan7Sheet9_94: 1961986248
+      MegaMan7Sheet9_95: -61327179
+      MegaMan7Sheet9_96: 1847690935
+      MegaMan7Sheet9_97: -1160450542
+      MegaMan7Sheet9_98: 2078809731
+      MegaMan7Sheet9_99: 1754976880
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
