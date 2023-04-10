@@ -19,7 +19,7 @@ public class PCScript : MonoBehaviour
     void Start()
     {
         vel = 10;
-        jump = 15000;
+        jump = 20000;
         rbd = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
     }
